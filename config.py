@@ -13,7 +13,7 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","KSDOFFICIAL84")
+OWNER_USERNAME = getenv("OWNER_USERNAME","koushals84")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME","riya_xmusic_robot")
 # --------------------------------------------------------
@@ -30,7 +30,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Get this value from @PURVI_HELP_BOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 6283192619))
+OWNER_ID = int(getenv("OWNER_ID", 6256542475))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
